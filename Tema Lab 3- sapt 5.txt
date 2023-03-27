@@ -1,0 +1,7 @@
+Tema Lab 3- sapt 5
+diagrama uml a cazurilor de utilizare
+use case pt cazurile de utiliare
+document cu planificarea pe iteratii
+
+
+optional: prototipul interfetei grafice
